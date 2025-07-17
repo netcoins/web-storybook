@@ -1,0 +1,17 @@
+import{j as r}from"./jsx-runtime-CQAa4qDQ.js";import{r as i}from"./index-OILgKo3Z.js";import{A as p}from"./index-CIhce0Is.js";import"./iframe-Cx_R9WK5.js";import{T as l,a as m}from"./tr-B35idgN-.js";import"./index-D2A5T1WJ.js";import"./use-style-config-j-GZR9Oi.js";import"./button-DimVdYr1.js";import"./context-CJ8BW1lH.js";import"./spinner-D5CHtvJn.js";import"./emotion-react.browser.esm-D1FLUpTm.js";import"./define-styles-k0dS9I3S.js";import"./attr-DNG3tQ7M.js";import"./use-merge-refs-S0LPA916.js";import"./icon-C-nmj33d.js";import"./index-D2YTBbWa.js";import"./index-Dl00q9dp.js";import"./iconBase-_SEFdOfM.js";import"./menu-list-Cf9yHqZp.js";import"./use-descendant-DNBSiVyu.js";import"./use-callback-ref-D7H7xxcL.js";import"./use-popper-CqOKbpy-.js";import"./use-event-listener-DZmsqnDD.js";import"./use-safe-layout-effect-Cio8XRX9.js";import"./use-update-effect-BrkH73du.js";import"./focusable-DpwIps9l.js";import"./is-element-O0rWTUfl.js";import"./popper-Bh0pZfd_.js";import"./use-clickable-LqjlHXFX.js";import"./use-disclosure-DPAGEqo2.js";import"./call-all--NRVVPhS.js";import"./lazy-oo6M69xf.js";import"./children-rlgTPJZ4.js";import"./motion-CiI77fs7.js";import"./icon-button-DZu6wCkb.js";import"./menu-item-BI5AJbxR.js";import"./dateFormating-swf1_cjs.js";import"./index-C-L-7wWJ.js";import"./index-B4gmFqFq.js";import"./useTranslation-3cz9vb_7.js";import"./context-BDEVUT7d.js";import"./text-MAXgvpEP.js";import"./box-BUJHURtG.js";import"./flex-D2Ruh6ZN.js";try{let e=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},t=new e.Error().stack;t&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[t]="5968ed34-d54d-4014-885f-80747fdae1e3",e._sentryDebugIdIdentifier="sentry-dbid-5968ed34-d54d-4014-885f-80747fdae1e3")}catch{}const re={component:p},o=()=>{const[e,t]=i.useState(!1),[u,d]=i.useState(!1);return r.jsx(l,{layout:"fixed",sx:{borderCollapse:"collapse"},w:"100%","data-sentry-element":"Table","data-sentry-component":"Default","data-sentry-source-file":"index.stories.tsx",children:r.jsx(m,{w:"full","data-sentry-element":"Tbody","data-sentry-source-file":"index.stories.tsx",children:r.jsx(p,{onDeleteClick:()=>d(!0),onEditClick:()=>t(!0),authorizedDevice:{authorized_at:"2021-10-10",deviceID:"123456",label:"Device",type:"Desktop",user_agent:"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"},"data-sentry-element":"AuthorizedDeviceRow","data-sentry-source-file":"index.stories.tsx"})})})};var s,a,n;o.parameters={...o.parameters,docs:{...(s=o.parameters)==null?void 0:s.docs,source:{originalSource:`() => {
+  const [isEditModalOpen, setIsEditModalOpen] = useState(false);
+  const [isDeleteModalOpen, setIsDeleteModalOpen] = useState(false);
+  return <Table layout="fixed" sx={{
+    borderCollapse: "collapse"
+  }} w="100%">
+            <Tbody w="full">
+                <AuthorizedDeviceRow onDeleteClick={() => setIsDeleteModalOpen(true)} onEditClick={() => setIsEditModalOpen(true)} authorizedDevice={{
+        authorized_at: "2021-10-10",
+        deviceID: "123456",
+        label: "Device",
+        type: "Desktop",
+        user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"
+      }} />
+            </Tbody>
+        </Table>;
+}`,...(n=(a=o.parameters)==null?void 0:a.docs)==null?void 0:n.source}}};const ie=["Default"];export{o as Default,ie as __namedExportsOrder,re as default};
