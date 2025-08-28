@@ -1,0 +1,65 @@
+import{j as p}from"./jsx-runtime-BRPF6uRv.js";import{r as b}from"./index-DxKK6bzi.js";import{C as s}from"./index-B9gnoX3U.js";import{D as g}from"./decimal-C6g1TQWS.js";import"./iframe-DKB_pPft.js";import"./index-iIk_Ujez.js";import"./box-C7BNBrLQ.js";import"./factory-CbOttNVQ.js";import"./text-RxHH730M.js";import"./use-style-config-D8AmuLNk.js";import"./numericalFormatting-CRldo5AW.js";import"./stringFormatting-_3lh9Bck.js";import"./index-BnnZUVzD.js";import"./iconBase-PwpClNxo.js";import"./index-DFrLvk7P.js";import"./index-BZI8PZWh.js";import"./index.esm-BDBy6BW5.js";import"./flex-C30owhth.js";import"./input-group-a2vb7X-r.js";import"./children-CCZ8Dpxt.js";import"./context-aKDDOJ6F.js";import"./input-element-Bv-f_yWK.js";import"./input-ByGzf3IF.js";import"./use-form-control-C75xcI3q.js";import"./form-control-CCttXVeQ.js";import"./use-merge-refs-_EpIqvGs.js";import"./attr-DNG3tQ7M.js";import"./call-all--NRVVPhS.js";try{let n=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},e=new n.Error().stack;e&&(n._sentryDebugIds=n._sentryDebugIds||{},n._sentryDebugIds[e]="f995f368-c6db-4f5b-94d7-e948861f884d",n._sentryDebugIdIdentifier="sentry-dbid-f995f368-c6db-4f5b-94d7-e948861f884d")}catch{}const M={component:s,tags:["pending"]},c={args:{mode:"dual",currencies:[{symbol:"BTC",precision:"8"},{symbol:"USD",precision:"2"}],balance:{quantity:new g(100),focus:"currencyOne"},exchangeRate:1e4,label:"Label"},render:function(e){const[t,o]=b.useState({currencyOne:"",currencyTwo:""});return p.jsx(s,{mode:"dual",currencies:e.currencies,balance:e.balance,exchangeRate:e.exchangeRate,label:e.label,value:t,onTextChange:r=>{o({currencyOne:r.currencyOne,currencyTwo:r.currencyTwo})}})}},a={args:{mode:"single",currencies:[{symbol:"CAD",precision:"2"}],balance:{quantity:new g(100),focus:"currencyOne"},label:"Label"},render:function(e){const[t,o]=b.useState({currencyOne:""});return p.jsx(s,{mode:"single",currencies:e.currencies,balance:e.balance,label:e.label,value:t,onTextChange:r=>{o({currencyOne:r.currencyOne})}})}};var u,i,l;c.parameters={...c.parameters,docs:{...(u=c.parameters)==null?void 0:u.docs,source:{originalSource:`{
+  args: {
+    mode: "dual",
+    currencies: [{
+      symbol: "BTC",
+      precision: "8"
+    }, {
+      symbol: "USD",
+      precision: "2"
+    }] as [CurrencyData, CurrencyData],
+    balance: {
+      quantity: new Decimal(100),
+      focus: "currencyOne"
+    },
+    exchangeRate: 10000,
+    label: "Label"
+  },
+  render: function Story(args) {
+    const [value, setValue] = useState<{
+      currencyOne: string;
+      currencyTwo: string;
+    }>({
+      currencyOne: "",
+      currencyTwo: ""
+    });
+    return <CurrencySwitchFormField mode="dual" currencies={args.currencies} balance={args.balance} exchangeRate={args.exchangeRate} label={args.label} value={value} onTextChange={(values: {
+      currencyOne: string;
+      currencyTwo: string;
+      focus: "currencyOne" | "currencyTwo";
+    }) => {
+      setValue({
+        currencyOne: values.currencyOne,
+        currencyTwo: values.currencyTwo
+      });
+    }} />;
+  }
+}`,...(l=(i=c.parameters)==null?void 0:i.docs)==null?void 0:l.source}}};var m,y,d;a.parameters={...a.parameters,docs:{...(m=a.parameters)==null?void 0:m.docs,source:{originalSource:`{
+  args: {
+    mode: "single",
+    currencies: [{
+      symbol: "CAD",
+      precision: "2"
+    }] as [CurrencyData],
+    balance: {
+      quantity: new Decimal(100),
+      focus: "currencyOne"
+    },
+    label: "Label"
+  },
+  render: function Story(args) {
+    const [value, setValue] = useState<{
+      currencyOne: string;
+    }>({
+      currencyOne: ""
+    });
+    return <CurrencySwitchFormField mode="single" currencies={args.currencies} balance={args.balance} label={args.label} value={value} onTextChange={(values: {
+      currencyOne: string;
+      focus: "currencyOne";
+    }) => {
+      setValue({
+        currencyOne: values.currencyOne
+      });
+    }} />;
+  }
+}`,...(d=(y=a.parameters)==null?void 0:y.docs)==null?void 0:d.source}}};const N=["Default","Single"];export{c as Default,a as Single,N as __namedExportsOrder,M as default};
