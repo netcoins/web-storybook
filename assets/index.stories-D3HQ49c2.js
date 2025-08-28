@@ -1,0 +1,12 @@
+import{j as t}from"./jsx-runtime-DBvW3J4P.js";import{P as r}from"./index-s1tl39PH.js";import"./iframe-CbEszLwV.js";import{F as f}from"./flex-CVx7E2fo.js";import"./box-CilrpWKY.js";import"./factory-CH5OTrax.js";import"./index-eiqMTM-Z.js";import"./text-drvfSy8p.js";import"./use-style-config-CRvEJw1Z.js";try{let e=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},o=new e.Error().stack;o&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[o]="62e61b4c-eca2-48f9-9e3d-0b0eea598a7f",e._sentryDebugIdIdentifier="sentry-dbid-62e61b4c-eca2-48f9-9e3d-0b0eea598a7f")}catch{}const j={component:r,tags:["pending"]},s={args:{text:"Pill"}},n={render:()=>t.jsxs(f,{gap:3,justifyContent:"space-between",flex:1,children:[t.jsx(r,{text:"25%",width:"100%"}),t.jsx(r,{text:"50%",width:"100%"}),t.jsx(r,{text:"75%",width:"100%"}),t.jsx(r,{text:"100%",width:"100%"})]})};var a,i,d;s.parameters={...s.parameters,docs:{...(a=s.parameters)==null?void 0:a.docs,source:{originalSource:`{
+  args: {
+    text: "Pill"
+  }
+}`,...(d=(i=s.parameters)==null?void 0:i.docs)==null?void 0:d.source}}};var l,p,c;n.parameters={...n.parameters,docs:{...(l=n.parameters)==null?void 0:l.docs,source:{originalSource:`{
+  render: () => <Flex gap={3} justifyContent={"space-between"} flex={1}>
+            <Pill text="25%" width={"100%"} />
+            <Pill text="50%" width={"100%"} />
+            <Pill text="75%" width={"100%"} />
+            <Pill text="100%" width={"100%"} />
+        </Flex>
+}`,...(c=(p=n.parameters)==null?void 0:p.docs)==null?void 0:c.source}}};const D=["Default","PillsRow"];export{s as Default,n as PillsRow,D as __namedExportsOrder,j as default};
