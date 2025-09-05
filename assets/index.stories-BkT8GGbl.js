@@ -1,0 +1,55 @@
+import{j as e}from"./jsx-runtime-C3B292Xu.js";import{S as m}from"./index-BYgJYWPy.js";import{r as d}from"./index-PgOj0D5X.js";import{E as l}from"./index-BDFCXdlD.js";import{F as C}from"./index-9xQTT9am.js";import{S as D}from"./index-Cfob_cOX.js";import"./iframe-CnHy6M6c.js";import{B as c}from"./button-DfTjitQQ.js";import{B as n}from"./box-CwP0QlWK.js";import{T as b}from"./text-DxtYMs2k.js";import"./check-circle-B9Jyr_ec.js";import"./chart-up-qP76GV1H.js";import"./ReactIconWrapper--bQoJgKC.js";import"./flex-DYAYLzzp.js";import"./use-style-config-BAkJ30-U.js";import"./factory-BzKGzsDh.js";import"./icon-XDhCQgpV.js";import"./index-DsaFvulh.js";import"./useRestrictNavigation-DkJTtO4R.js";import"./routes--i5a7U5P.js";import"./hooks-Cno047-T.js";import"./splitApi-7P-LN3r2.js";import"./config-DdesNrp-.js";import"./selectors-BUfcWLi4.js";import"./apiSlice-DIu8IHNi.js";import"./stringFormatting-rK7GKAXi.js";import"./index-LjwGn9gB.js";import"./index-CDukSuen.js";import"./window-x6xG_cg6.js";import"./index-Wjs9Ir3b.js";import"./useTranslation-r-4_Y9N9.js";import"./context-CJPSIzB9.js";import"./index-C8fpsWwM.js";import"./index-B-x262fV.js";import"./index-BCRaDTyh.js";import"./iconBase-CxYTiZMo.js";import"./apiSlice-86VM78KR.js";import"./index-Bvicpkwm.js";import"./index-9PwYsEyq.js";import"./index-DMCvZlG-.js";import"./index-Bdbj1FJ5.js";import"./index-uhBb1ulj.js";import"./menu-BWLOv-SA.js";import"./use-descendant-DDZ-mLXr.js";import"./context-YqG1KvsO.js";import"./use-merge-refs-CyvJz5hu.js";import"./use-popper-CMBqJ7zk.js";import"./use-event-listener-4LNcxXIR.js";import"./use-callback-ref-C55yQHNk.js";import"./use-safe-layout-effect-B_dOMywT.js";import"./use-update-effect-CHkVTMZW.js";import"./focusable-CtBmCjwl.js";import"./is-element-O0rWTUfl.js";import"./use-clickable-CoXJhoq5.js";import"./attr-DNG3tQ7M.js";import"./use-disclosure-CsAOqf_8.js";import"./call-all--NRVVPhS.js";import"./lazy-oo6M69xf.js";import"./use-controllable-state-CbqR24Gi.js";import"./children-Cj0PpSmN.js";import"./menu-list-DFCanp6c.js";import"./motion-CGdP6bbk.js";import"./menu-item-CIWn8FLz.js";import"./menu-icon-DPyv8uyC.js";import"./image-DnOBfF5G.js";import"./h-stack-Ct-rQUfQ.js";import"./stack-BwpXcolk.js";import"./responsive-C5E_iXjJ.js";import"./index-C9MVchK7.js";import"./index-DzgY9Cut.js";import"./breakpoints-DfBeFvmT.js";import"./index-CVF2Yoq9.js";import"./define-styles-k0dS9I3S.js";import"./css-var-BrkJIZpq.js";import"./index-BROM6xTT.js";import"./index-CE1TM2br.js";import"./useMiddleTruncatedText-DQU3YNnC.js";import"./skeleton-GEQmCD39.js";import"./emotion-react.browser.esm-B461vbWr.js";import"./icon-button-f3knUjpp.js";import"./fade-CDMfu-A1.js";import"./transition-utils-CQ-IB1pJ.js";import"./index-DXFkseX2.js";import"./index-C_2-rCQc.js";import"./index.esm-eEXxDIZI.js";import"./index-atbfNU-T.js";import"./link-DcdQiTWx.js";import"./types-B83BoJZF.js";import"./form-control-BcxdIuT0.js";import"./use-checkbox-BFVOFoXE.js";import"./use-form-control-BlJDxNFk.js";import"./isSymbol-KPTsyv96.js";import"./v-stack-DybKPKcn.js";import"./index-BLDP5aZr.js";import"./index-D79Qo_na.js";import"./form-label-DtH0LqYj.js";import"./chunk-PULVB27S-CWD4eHVA.js";import"./chunk-ZJJGQIVY-BglO221l.js";import"./useReferralUtils-DhbmwgU-.js";import"./toast.provider-BcWDQ02u.js";import"./spinner-CI-ZS4te.js";import"./portal-BLUfAA_W.js";import"./use-breakpoint-value-C9uyA8sF.js";import"./env-BX-BY3ny.js";import"./modal-overlay-CmM19IZR.js";import"./defineProperty-6G7kKF1Y.js";import"./decimal-C6g1TQWS.js";import"./index-BKqOfDau.js";import"./index-KlfQOBSh.js";import"./index-UtLKCiok.js";import"./ada-DdEaAUc1.js";import"./btc-D7SNUmvZ.js";import"./eth-Rbed9pP_.js";import"./sol-DhXqqGh8.js";import"./useGetAssetDetails-DFj7Dgzt.js";import"./apiSlice-CMMVPSL6.js";import"./useRegion-BBthv-C4.js";import"./useCalculateBalances-DvNv5Dj0.js";import"./numericalFormatting-BzCqF3nH.js";import"./index-DcS1UwF0.js";import"./index-BqsxoeoQ.js";import"./index-DeCnD2hf.js";import"./types-CD_Qx30l.js";import"./useColorFormatConverter-DWGh_ZJ-.js";import"./index-GC2BYMKH.js";import"./IconWrapper-CRSFfnZK.js";import"./theme-DMYu2WI8.js";import"./input-group-B_7D1X9z.js";import"./input-element-DcI5hFxH.js";import"./index-k4JcXRPA.js";import"./chunk-2OOHT3W5-6zY6YHr9.js";import"./chunk-KRPLQIP4-BWJtQsxZ.js";import"./index-C9VwPB0S.js";import"./popover-trigger-BQ3OIo3g.js";import"./index-BROnKmBV.js";import"./input-DfLYv5MM.js";import"./index-hfprj_sY.js";import"./input-addon-BdPNV1Yv.js";import"./index-DqB-Knvz.js";import"./index-BpkCqwA3.js";import"./index-eMpT3xs-.js";import"./index-Ci6g4NED.js";import"./index-DN7IS7-L.js";import"./index-yXftgxgQ.js";import"./skeleton-text-EmBqDDqy.js";import"./list-DiP2MdZi.js";import"./index-CjIaxEGq.js";import"./index-BMgWZ0s8.js";import"./index-Cs0EbDXq.js";import"./alert-dialog-BDiYzsve.js";import"./index-tMN2PQEf.js";import"./index-DQ8TCduz.js";import"./index-DONDv1mu.js";try{let t=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},r=new t.Error().stack;r&&(t._sentryDebugIds=t._sentryDebugIds||{},t._sentryDebugIds[r]="bec0d5e0-5040-49b0-bd98-02271dec0fae",t._sentryDebugIdIdentifier="sentry-dbid-bec0d5e0-5040-49b0-bd98-02271dec0fae")}catch{}const Br={component:m},s=()=>{const[t,r]=d.useState(!1),i=()=>r(!0),o=()=>r(!t),h=()=>{};return e.jsxs(e.Fragment,{children:[e.jsx(c,{onClick:i,"data-sentry-element":"Button","data-sentry-source-file":"index.stories.tsx",children:"Open Filter (Test Button only)"}),e.jsx(m,{name:"test",isOpen:t,toggleSideDrawerOpen:o,size:"md",header:e.jsx(C,{title:"Filter Drawer",onClose:o,clearButtonLabel:"Clear",onClear:h}),footerButton:{children:"Apply",variant:l.PRIMARY_BLUE_OUTLINE,type:"submit",onClick:()=>{}},"data-sentry-element":"SideDrawer","data-sentry-source-file":"index.stories.tsx",children:e.jsx(n,{"data-sentry-element":"Box","data-sentry-source-file":"index.stories.tsx",children:e.jsx(b,{"data-sentry-element":"Text","data-sentry-source-file":"index.stories.tsx",children:"Custom body content goes here."})})})]})},p=()=>{const[t,r]=d.useState(!1),i=()=>r(!0),o=()=>r(!t);return e.jsxs(e.Fragment,{children:[e.jsx(c,{onClick:i,"data-sentry-element":"Button","data-sentry-source-file":"index.stories.tsx",children:"Open Standard Header"}),e.jsx(m,{name:"test2",isOpen:t,toggleSideDrawerOpen:o,size:"md",header:e.jsx(D,{title:"Drawer Header",onClose:o,onBack:o}),footerButton:{children:"Apply Changes",variant:l.PRIMARY_BLUE_OUTLINE,type:"submit",onClick:()=>{}},"data-sentry-element":"SideDrawer","data-sentry-source-file":"index.stories.tsx",children:e.jsx(n,{"data-sentry-element":"Box","data-sentry-source-file":"index.stories.tsx",children:e.jsx(b,{"data-sentry-element":"Text","data-sentry-source-file":"index.stories.tsx",children:"Content for the drawer"})})})]})},a=()=>{const[t,r]=d.useState(!1),i=()=>r(!0),o=()=>r(!t);return e.jsxs(e.Fragment,{children:[e.jsx(c,{onClick:i,"data-sentry-element":"Button","data-sentry-source-file":"index.stories.tsx",children:"Open Standard Header"}),e.jsx(m,{name:"test2",isOpen:t,toggleSideDrawerOpen:o,size:"md",header:e.jsx(D,{title:"Drawer Header",onClose:o,onBack:o}),footerButton:{children:"Apply Changes",variant:l.PRIMARY_BLUE_OUTLINE,type:"submit",onClick:()=>{}},"data-sentry-element":"SideDrawer","data-sentry-source-file":"index.stories.tsx",children:e.jsxs(n,{"data-sentry-element":"Box","data-sentry-source-file":"index.stories.tsx",children:[e.jsx(n,{w:"100%",h:"250px",mb:"100px",bg:"blue.100","data-sentry-element":"Box","data-sentry-source-file":"index.stories.tsx"}),e.jsx(n,{w:"100%",h:"250px",mb:"100px",bg:"blue.100","data-sentry-element":"Box","data-sentry-source-file":"index.stories.tsx"}),e.jsx(n,{w:"100%",h:"250px",bg:"blue.100","data-sentry-element":"Box","data-sentry-source-file":"index.stories.tsx"})]})})]})};var u,x,O;s.parameters={...s.parameters,docs:{...(u=s.parameters)==null?void 0:u.docs,source:{originalSource:`() => {
+  const [isOpen, setIsOpen] = useState(false);
+  const onOpen = () => setIsOpen(true);
+  const toggleSideDrawerOpen = () => setIsOpen(!isOpen);
+  const onClear = () => {};
+  return <>
+            <Button onClick={onOpen}>Open Filter (Test Button only)</Button>
+            <SideDrawer name="test" isOpen={isOpen} toggleSideDrawerOpen={toggleSideDrawerOpen} size="md" header={<FilterDrawerHeader title="Filter Drawer" onClose={toggleSideDrawerOpen} clearButtonLabel="Clear" onClear={onClear} />} footerButton={{
+      children: "Apply",
+      variant: ENUM_BUTTON_VARIANTS.PRIMARY_BLUE_OUTLINE,
+      type: "submit",
+      onClick: () => {}
+    }}>
+                <Box>
+                    <Text>Custom body content goes here.</Text>
+                </Box>
+            </SideDrawer>
+        </>;
+}`,...(O=(x=s.parameters)==null?void 0:x.docs)==null?void 0:O.source}}};var g,B,y;p.parameters={...p.parameters,docs:{...(g=p.parameters)==null?void 0:g.docs,source:{originalSource:`() => {
+  const [isOpen, setIsOpen] = useState(false);
+  const onOpen = () => setIsOpen(true);
+  const toggleSideDrawerOpen = () => setIsOpen(!isOpen);
+  return <>
+            <Button onClick={onOpen}>Open Standard Header</Button>
+            <SideDrawer name="test2" isOpen={isOpen} toggleSideDrawerOpen={toggleSideDrawerOpen} size="md" header={<StandardDrawerHeader title="Drawer Header" onClose={toggleSideDrawerOpen} onBack={toggleSideDrawerOpen} />} footerButton={{
+      children: "Apply Changes",
+      variant: ENUM_BUTTON_VARIANTS.PRIMARY_BLUE_OUTLINE,
+      type: "submit",
+      onClick: () => {}
+    }}>
+                <Box>
+                    <Text>Content for the drawer</Text>
+                </Box>
+            </SideDrawer>
+        </>;
+}`,...(y=(B=p.parameters)==null?void 0:B.docs)==null?void 0:y.source}}};var f,w,S;a.parameters={...a.parameters,docs:{...(f=a.parameters)==null?void 0:f.docs,source:{originalSource:`() => {
+  const [isOpen, setIsOpen] = useState(false);
+  const onOpen = () => setIsOpen(true);
+  const toggleSideDrawerOpen = () => setIsOpen(!isOpen);
+  return <>
+            <Button onClick={onOpen}>Open Standard Header</Button>
+            <SideDrawer name="test2" isOpen={isOpen} toggleSideDrawerOpen={toggleSideDrawerOpen} size="md" header={<StandardDrawerHeader title="Drawer Header" onClose={toggleSideDrawerOpen} onBack={toggleSideDrawerOpen} />} footerButton={{
+      children: "Apply Changes",
+      variant: ENUM_BUTTON_VARIANTS.PRIMARY_BLUE_OUTLINE,
+      type: "submit",
+      onClick: () => {}
+    }}>
+                <Box>
+                    <Box w="100%" h="250px" mb="100px" bg="blue.100"></Box>
+                    <Box w="100%" h="250px" mb="100px" bg="blue.100"></Box>
+                    <Box w="100%" h="250px" bg="blue.100"></Box>
+                </Box>
+            </SideDrawer>
+        </>;
+}`,...(S=(w=a.parameters)==null?void 0:w.docs)==null?void 0:S.source}}};const yr=["Default","CustomHeader","Scrollable"];export{p as CustomHeader,s as Default,a as Scrollable,yr as __namedExportsOrder,Br as default};
