@@ -1,0 +1,21 @@
+import{j as e}from"./jsx-runtime-0j627tJz.js";import{T as o}from"./index-DI5RS-HE.js";import{F as c}from"./chunk-KRPLQIP4-BPExetgL.js";import{j as d,h as t}from"./index-CH_UO4tK.js";import"./iframe-BequwYZt.js";import"./ReactIconWrapper-B_y0NoKf.js";import"./flex-BUw3zH7M.js";import"./use-style-config-K9VkrvYr.js";import"./index-CqM68cw3.js";import"./factory-Bd3V6wa0.js";import"./icon-MsGxxGD1.js";import"./box-BxwTpzrX.js";import"./text-B0fW30gV.js";import"./chunk-ZJJGQIVY-CHHXMmeT.js";import"./iconBase-BZJQX4CJ.js";try{let i=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},a=new i.Error().stack;a&&(i._sentryDebugIds=i._sentryDebugIds||{},i._sentryDebugIds[a]="b5c82ce2-8978-4c3a-9f2a-c8361a9b33a1",i._sentryDebugIdIdentifier="sentry-dbid-b5c82ce2-8978-4c3a-9f2a-c8361a9b33a1")}catch{}const A={component:o,tags:["pending"]},r={render:()=>e.jsxs(c,{w:"fit-content",flexDir:"column",children:[e.jsx(o,{title:"Title",color:"white",bgColor:"green.light.100",desc:"This is a description",icon:d}),e.jsx(o,{title:"Title",color:"white",bgColor:"green.light.100",desc:"This is a description",onClose:()=>{},icon:d})]})},s={render:()=>e.jsxs(c,{w:"fit-content",flexDir:"column",children:[e.jsx(o,{title:"Title",color:"white",bgColor:"red.light.100",desc:"This is a description",icon:t}),e.jsx(o,{title:"Title",color:"white",bgColor:"red.light.100",desc:"This is a description",onClose:()=>{},icon:t})]})},n={render:()=>e.jsxs(c,{w:"fit-content",flexDir:"column",children:[e.jsx(o,{title:"Title",color:"white",bgColor:"blue.100",desc:"This is a description",icon:t}),e.jsx(o,{title:"Title",color:"white",bgColor:"blue.100",desc:"This is a description",onClose:()=>{},icon:t})]})},l={render:()=>e.jsxs(c,{w:"fit-content",flexDir:"column",children:[e.jsx(o,{title:"Title",color:"black",bgColor:"blue.10",desc:"This is a description",icon:t}),e.jsx(o,{title:"Title",color:"black",bgColor:"blue.10",desc:"This is a description",onClose:()=>{},icon:t})]})};var p,h,m;r.parameters={...r.parameters,docs:{...(p=r.parameters)==null?void 0:p.docs,source:{originalSource:`{
+  render: () => <Flex w="fit-content" flexDir="column">
+            <Toast title="Title" color="white" bgColor="green.light.100" desc="This is a description" icon={MdCheck} />
+            <Toast title="Title" color="white" bgColor="green.light.100" desc="This is a description" onClose={() => {}} icon={MdCheck} />
+        </Flex>
+}`,...(m=(h=r.parameters)==null?void 0:h.docs)==null?void 0:m.source}}};var u,g,T;s.parameters={...s.parameters,docs:{...(u=s.parameters)==null?void 0:u.docs,source:{originalSource:`{
+  render: () => <Flex w="fit-content" flexDir="column">
+            <Toast title="Title" color="white" bgColor="red.light.100" desc="This is a description" icon={MdInfoOutline} />
+            <Toast title="Title" color="white" bgColor="red.light.100" desc="This is a description" onClose={() => {}} icon={MdInfoOutline} />
+        </Flex>
+}`,...(T=(g=s.parameters)==null?void 0:g.docs)==null?void 0:T.source}}};var f,b,x;n.parameters={...n.parameters,docs:{...(f=n.parameters)==null?void 0:f.docs,source:{originalSource:`{
+  render: () => <Flex w="fit-content" flexDir="column">
+            <Toast title="Title" color="white" bgColor="blue.100" desc="This is a description" icon={MdInfoOutline} />
+            <Toast title="Title" color="white" bgColor="blue.100" desc="This is a description" onClose={() => {}} icon={MdInfoOutline} />
+        </Flex>
+}`,...(x=(b=n.parameters)==null?void 0:b.docs)==null?void 0:x.source}}};var C,w,j;l.parameters={...l.parameters,docs:{...(C=l.parameters)==null?void 0:C.docs,source:{originalSource:`{
+  render: () => <Flex w="fit-content" flexDir="column">
+            <Toast title="Title" color="black" bgColor="blue.10" desc="This is a description" icon={MdInfoOutline} />
+            <Toast title="Title" color="black" bgColor="blue.10" desc="This is a description" onClose={() => {}} icon={MdInfoOutline} />
+        </Flex>
+}`,...(j=(w=l.parameters)==null?void 0:w.docs)==null?void 0:j.source}}};const B=["Success","Error","Warning","Info"];export{s as Error,l as Info,r as Success,n as Warning,B as __namedExportsOrder,A as default};
