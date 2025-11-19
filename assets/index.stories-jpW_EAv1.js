@@ -1,0 +1,69 @@
+import{j as r}from"./jsx-runtime-DycBG7t2.js";import{C as e}from"./index-ByhoBpvC.js";import"./iframe-DQF7kjwh.js";import{T as p}from"./tr-DbY_ZB0-.js";import{T as l}from"./tbody-BOaxPQVQ.js";import"./index-DOdhEdC4.js";import"./ada-DdEaAUc1.js";import"./btc-D7SNUmvZ.js";import"./eth-Rbed9pP_.js";import"./sol-DhXqqGh8.js";import"./index-KXYNI9TO.js";import"./index-BtnZsqI8.js";import"./use-style-config-DpFmMCn2.js";import"./factory-BQdo0XKC.js";import"./box-DcZt547K.js";import"./flex-Bu-vBFNV.js";import"./text-8uFHArpX.js";import"./index-BR3kwomW.js";import"./check-circle-DDIicF_f.js";import"./ReactIconWrapper-Bqx4fjXw.js";import"./icon-4CVVtdFC.js";import"./index-2wFfAaPR.js";import"./button-Dx4-ktMJ.js";import"./context-De3L8j-K.js";import"./spinner-BvABE9kT.js";import"./emotion-react.browser.esm-Da_Q3ZfM.js";import"./define-styles-k0dS9I3S.js";import"./attr-DNG3tQ7M.js";import"./use-merge-refs-CKiHq7u4.js";import"./useRestrictNavigation-DJSlJy6B.js";import"./routes-CYwrN4Uk.js";import"./hooks-BbvQToxe.js";import"./splitApi-BBmRGgoU.js";import"./config-Xnmca4Ve.js";import"./selectors-BZyD5r93.js";import"./apiSlice-C9hAwjBA.js";import"./stringFormatting-CO5qpWGm.js";import"./index-dXudhXVu.js";import"./index-Dne-o0HD.js";import"./window-BAF3tVlD.js";import"./index-J6xFpodX.js";import"./iconBase-Dqh1lum1.js";import"./chart-up-5uXAAuXF.js";import"./index-C2VbXADg.js";import"./useTranslation-DoHcXfH0.js";import"./context-DIjP_zey.js";import"./index-DBzBMmbm.js";import"./index-CW2YJnip.js";import"./index-DUxwgi3x.js";import"./index-Bb8wtzZg.js";import"./index-DO3t67pY.js";import"./menu-HrdVAT_F.js";import"./use-descendant-DaWMXvzf.js";import"./use-popper--0Kua-8d.js";import"./use-event-listener-CIVNAP9L.js";import"./use-callback-ref-C1u5CAv-.js";import"./use-safe-layout-effect-z0HIe9GO.js";import"./use-update-effect-CWLww0cP.js";import"./focusable-CtBmCjwl.js";import"./is-element-O0rWTUfl.js";import"./use-clickable-BHuHdbs6.js";import"./use-disclosure-BOoiphcn.js";import"./call-all--NRVVPhS.js";import"./lazy-oo6M69xf.js";import"./use-controllable-state-C94NIEl5.js";import"./children-c925zUJn.js";import"./menu-list-j2EXZb2K.js";import"./motion-BabrYK0L.js";import"./menu-item-CKsW3rHw.js";import"./menu-icon-CSpsmNcH.js";import"./index-DakiVin9.js";import"./image-BQAyz52t.js";import"./index-_F8bMnLN.js";import"./types-DQlJ93xp.js";import"./h-stack-BpIxbAzo.js";import"./stack-DrwMYkxF.js";import"./responsive-C1AmxRWE.js";import"./index-B9ytaRGO.js";import"./index-Bl2_LYeW.js";import"./breakpoints-D4f5BKbC.js";import"./index-DIal0E4q.js";import"./css-var-BrkJIZpq.js";import"./index-W5dpL5aL.js";import"./index-C09H8137.js";import"./useMiddleTruncatedText-B4TIH1Yl.js";import"./skeleton-D5nUF296.js";import"./icon-button-Bp7hNsrz.js";import"./fade-DMCuoFuk.js";import"./transition-utils-CQ-IB1pJ.js";import"./index-hcQK_uGp.js";import"./index-DB_dtgKv.js";import"./index.esm-PKoZXSjd.js";import"./index-CFhJk8uz.js";import"./link-PVXnYowj.js";import"./types-CY5RIAmY.js";import"./form-control-CJQ-cH7l.js";import"./use-checkbox-CVoLIiZ3.js";import"./use-form-control-CeoYJWzD.js";import"./isSymbol-KPTsyv96.js";import"./v-stack-_faCUUyv.js";import"./index-C0EHpRaJ.js";import"./index-Bc5ZzjDI.js";import"./form-label-BkAX1Q6B.js";import"./chunk-PULVB27S-JPVEIZfA.js";import"./chunk-ZJJGQIVY-BeURFF3x.js";import"./useReferralUtils-BV4qqC_9.js";import"./index-DAkPqVIT.js";import"./index-268Od4VY.js";import"./toast.provider-BE-oS4wS.js";import"./portal-CC6Vre4H.js";import"./apiSlice-DIv33hal.js";import"./use-breakpoint-value-DFGet-xn.js";import"./env-qNXoeOOg.js";import"./modal-overlay-C84Pi3Wf.js";import"./defineProperty-6G7kKF1Y.js";import"./decimal-C6g1TQWS.js";import"./index-BMUqeYwz.js";import"./useGetAssetDetails-4ajRa1Aa.js";import"./apiSlice-Do3FOhIz.js";import"./useRegion-Dd-tvAIK.js";import"./useCalculateBalances-DZRUnHs2.js";import"./numericalFormatting-CWeFbqVT.js";import"./index-Df26usNK.js";import"./index-BV-H1ya0.js";import"./index-ODo3gNYp.js";import"./useColorFormatConverter-VslqQnjZ.js";import"./index-XKOg27B9.js";import"./IconWrapper-BOfZqmSL.js";import"./theme-DMYu2WI8.js";import"./input-group-CHC1hX9L.js";import"./input-element-D8_0fUFC.js";import"./index-P7iii2wG.js";import"./chunk-2OOHT3W5-BHkMliYg.js";import"./chunk-KRPLQIP4-OYYWtwjG.js";import"./index-DgS_ipCt.js";import"./popover-trigger-BpB0K7-s.js";import"./index-DIMNoh6U.js";import"./input-DtdQo3BM.js";import"./index-DClF4kJ3.js";import"./input-addon-DmW-zefh.js";import"./index-BhD_hacW.js";import"./index-CHgQrpR5.js";import"./index-CCRB3h2b.js";import"./index-esx-AEsf.js";import"./index-BgZ_8K5l.js";import"./index-DTotjxPd.js";import"./skeleton-text-BxyADy59.js";import"./list-Cti53NL_.js";import"./index-_4Mzgnv9.js";import"./index-BAb6V6U3.js";import"./index-BdX19AOC.js";import"./alert-dialog-B6TMMh5r.js";import"./index-D_FhJP5h.js";import"./index-D9f20DOC.js";import"./index-DLWi3ojp.js";import"./index-WN34te2w.js";try{let t=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},a=new t.Error().stack;a&&(t._sentryDebugIds=t._sentryDebugIds||{},t._sentryDebugIds[a]="86c2d57a-6e26-4b99-b312-3d1179a09734",t._sentryDebugIdIdentifier="sentry-dbid-86c2d57a-6e26-4b99-b312-3d1179a09734")}catch{}var o=(t=>(t.PRICE_ASC="price",t.PRICE_DESC="-price",t.HR24PERCENT_ASC="hr24Percent",t.HR24PERCENT_DESC="-hr24Percent",t.MARKETCAP_ASC="marketCap",t.MARKETCAP_DESC="-marketCap",t))(o||{});const ai={component:e},i=t=>r.jsx(p,{layout:"fixed",sx:{borderCollapse:"collapse"},w:"100%","data-sentry-element":"Table","data-sentry-component":"Default","data-sentry-source-file":"index.stories.tsx",children:r.jsxs(l,{w:"full","data-sentry-element":"Tbody","data-sentry-source-file":"index.stories.tsx",children:[r.jsx(e,{coin:{name:"Bitcoin",symbol:"BTC",price:"10000","24h_percent":.5,statistics:{market_cap_cad:1e6},restrictions:{withdraw:!0,deposit:!0,instant_buy:!0,instant_sell:!0,limit_buy:!0,limit_sell:!0,can_stake:!0},tags:["tag1","tag2"]},coinSort:o.PRICE_ASC,sortData:()=>new Set,setFavouritesData:()=>{},favouritesDataRef:{current:new Set},isFavourite:!0,handleViewMore:()=>{},isLast:!1,"data-sentry-element":"TradingRow","data-sentry-source-file":"index.stories.tsx"}),r.jsx(e,{coin:{name:"Ethereum",symbol:"ETH",price:"1000","24h_percent":.5,statistics:{market_cap_cad:1e6},restrictions:{withdraw:!0,deposit:!0,instant_buy:!0,instant_sell:!0,limit_buy:!0,limit_sell:!0,can_stake:!0},tags:["tag1","tag2"]},coinSort:o.PRICE_ASC,sortData:()=>new Set,setFavouritesData:()=>{},favouritesDataRef:{current:new Set},isFavourite:!1,handleViewMore:()=>{},isLast:!1,"data-sentry-element":"TradingRow","data-sentry-source-file":"index.stories.tsx"}),r.jsx(e,{coin:{name:"Cardano",symbol:"ADA",price:"1000","24h_percent":.5,statistics:{market_cap_cad:1e6},restrictions:{withdraw:!1,deposit:!1,instant_buy:!0,instant_sell:!0,limit_buy:!0,limit_sell:!0,can_stake:!0},tags:["tag1","tag2"]},coinSort:o.PRICE_ASC,sortData:()=>new Set,setFavouritesData:()=>{},favouritesDataRef:{current:new Set},isFavourite:!1,handleViewMore:()=>{},isLast:!0,"data-sentry-element":"TradingRow","data-sentry-source-file":"index.stories.tsx"})]})});var n,s,m;i.parameters={...i.parameters,docs:{...(n=i.parameters)==null?void 0:n.docs,source:{originalSource:`storyArgs => <Table layout="fixed" sx={{
+  borderCollapse: "collapse"
+}} w="100%">
+        <Tbody w="full">
+            <TradingRow coin={{
+      name: "Bitcoin",
+      symbol: "BTC",
+      price: "10000",
+      "24h_percent": 0.5,
+      statistics: {
+        market_cap_cad: 1000000
+      },
+      restrictions: {
+        withdraw: true,
+        deposit: true,
+        instant_buy: true,
+        instant_sell: true,
+        limit_buy: true,
+        limit_sell: true,
+        can_stake: true
+      },
+      tags: ["tag1", "tag2"]
+    }} coinSort={COIN_SORT.PRICE_ASC} sortData={() => new Set()} setFavouritesData={() => {}} favouritesDataRef={{
+      current: new Set()
+    }} isFavourite handleViewMore={() => {}} isLast={false} />
+            <TradingRow coin={{
+      name: "Ethereum",
+      symbol: "ETH",
+      price: "1000",
+      "24h_percent": 0.5,
+      statistics: {
+        market_cap_cad: 1000000
+      },
+      restrictions: {
+        withdraw: true,
+        deposit: true,
+        instant_buy: true,
+        instant_sell: true,
+        limit_buy: true,
+        limit_sell: true,
+        can_stake: true
+      },
+      tags: ["tag1", "tag2"]
+    }} coinSort={COIN_SORT.PRICE_ASC} sortData={() => new Set()} setFavouritesData={() => {}} favouritesDataRef={{
+      current: new Set()
+    }} isFavourite={false} handleViewMore={() => {}} isLast={false} />
+            <TradingRow coin={{
+      name: "Cardano",
+      symbol: "ADA",
+      price: "1000",
+      "24h_percent": 0.5,
+      statistics: {
+        market_cap_cad: 1000000
+      },
+      restrictions: {
+        withdraw: false,
+        deposit: false,
+        instant_buy: true,
+        instant_sell: true,
+        limit_buy: true,
+        limit_sell: true,
+        can_stake: true
+      },
+      tags: ["tag1", "tag2"]
+    }} coinSort={COIN_SORT.PRICE_ASC} sortData={() => new Set()} setFavouritesData={() => {}} favouritesDataRef={{
+      current: new Set()
+    }} isFavourite={false} handleViewMore={() => {}} isLast />
+        </Tbody>
+    </Table>`,...(m=(s=i.parameters)==null?void 0:s.docs)==null?void 0:m.source}}};const ni=["Default"];export{i as Default,ni as __namedExportsOrder,ai as default};
