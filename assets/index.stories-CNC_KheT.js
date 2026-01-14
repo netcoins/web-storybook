@@ -1,0 +1,65 @@
+import{j as d}from"./jsx-runtime-B06jWHTP.js";import{r as b}from"./index-C1TPUaTx.js";import{C as s}from"./index-68l_x9rQ.js";import{D as g}from"./decimal-C6g1TQWS.js";import"./iframe-B6fleTvj.js";import"./index-lOQgO3H9.js";import"./box-CDcWH6Yu.js";import"./factory-DvFDl3zZ.js";import"./text-ArEex_Yj.js";import"./use-style-config-B2W6jWHK.js";import"./numericalFormatting-B_QxLx4C.js";import"./stringFormatting-CZApv447.js";import"./index-CvKVntdK.js";import"./iconBase-BIvVonaM.js";import"./index-DEOJJgdZ.js";import"./types-dhBLwLoj.js";import"./index.esm-CHlTz7ln.js";import"./useColorFormatConverter-Bl7GGRab.js";import"./index-BEjGSy0H.js";import"./IconWrapper-BNFwZ_qu.js";import"./theme-DMYu2WI8.js";import"./types-DhtWiENB.js";import"./form-control-DZD-WJG6.js";import"./context-Bcn5T_v6.js";import"./use-merge-refs-Bs9TwqwB.js";import"./attr-DNG3tQ7M.js";import"./form-label-D7tVAw44.js";import"./input-group-BlP6T4ji.js";import"./children-CSVkFAhP.js";import"./input-element-OCeF2MV6.js";import"./icon-DJIQtlNh.js";import"./use-callback-ref-DAZFU-4a.js";import"./use-update-effect-D_Bk1TLf.js";import"./use-safe-layout-effect-bjW5UBs0.js";import"./use-event-listener-Cehu9S7U.js";import"./call-all--NRVVPhS.js";import"./use-form-control-Y8a7jzhZ.js";import"./flex-DY0jT9vK.js";try{let n=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},e=new n.Error().stack;e&&(n._sentryDebugIds=n._sentryDebugIds||{},n._sentryDebugIds[e]="d2601776-04eb-4ff5-a409-0b1d6cd3df35",n._sentryDebugIdIdentifier="sentry-dbid-d2601776-04eb-4ff5-a409-0b1d6cd3df35")}catch{}const ne={component:s,tags:["pending"]},c={args:{mode:"dual",currencies:[{symbol:"BTC",precision:"8"},{symbol:"USD",precision:"2"}],balance:{quantity:new g(100),focus:"currencyOne"},exchangeRate:1e4,label:"Label"},render:function(e){const[t,o]=b.useState({currencyOne:"",currencyTwo:""});return d.jsx(s,{mode:"dual",currencies:e.currencies,balance:e.balance,exchangeRate:e.exchangeRate,label:e.label,value:t,onTextChange:r=>{o({currencyOne:r.currencyOne,currencyTwo:r.currencyTwo})}})}},a={args:{mode:"single",currencies:[{symbol:"CAD",precision:"2"}],balance:{quantity:new g(100),focus:"currencyOne"},label:"Label"},render:function(e){const[t,o]=b.useState({currencyOne:""});return d.jsx(s,{mode:"single",currencies:e.currencies,balance:e.balance,label:e.label,value:t,onTextChange:r=>{o({currencyOne:r.currencyOne})}})}};var u,i,l;c.parameters={...c.parameters,docs:{...(u=c.parameters)==null?void 0:u.docs,source:{originalSource:`{
+  args: {
+    mode: "dual",
+    currencies: [{
+      symbol: "BTC",
+      precision: "8"
+    }, {
+      symbol: "USD",
+      precision: "2"
+    }] as [CurrencyData, CurrencyData],
+    balance: {
+      quantity: new Decimal(100),
+      focus: "currencyOne"
+    },
+    exchangeRate: 10000,
+    label: "Label"
+  },
+  render: function Story(args) {
+    const [value, setValue] = useState<{
+      currencyOne: string;
+      currencyTwo: string;
+    }>({
+      currencyOne: "",
+      currencyTwo: ""
+    });
+    return <CurrencySwitchField mode="dual" currencies={args.currencies} balance={args.balance} exchangeRate={args.exchangeRate} label={args.label} value={value} onTextChange={(values: {
+      currencyOne: string;
+      currencyTwo: string;
+      focus: "currencyOne" | "currencyTwo";
+    }) => {
+      setValue({
+        currencyOne: values.currencyOne,
+        currencyTwo: values.currencyTwo
+      });
+    }} />;
+  }
+}`,...(l=(i=c.parameters)==null?void 0:i.docs)==null?void 0:l.source}}};var m,p,y;a.parameters={...a.parameters,docs:{...(m=a.parameters)==null?void 0:m.docs,source:{originalSource:`{
+  args: {
+    mode: "single",
+    currencies: [{
+      symbol: "CAD",
+      precision: "2"
+    }] as [CurrencyData],
+    balance: {
+      quantity: new Decimal(100),
+      focus: "currencyOne"
+    },
+    label: "Label"
+  },
+  render: function Story(args) {
+    const [value, setValue] = useState<{
+      currencyOne: string;
+    }>({
+      currencyOne: ""
+    });
+    return <CurrencySwitchField mode="single" currencies={args.currencies} balance={args.balance} label={args.label} value={value} onTextChange={(values: {
+      currencyOne: string;
+      focus: "currencyOne";
+    }) => {
+      setValue({
+        currencyOne: values.currencyOne
+      });
+    }} />;
+  }
+}`,...(y=(p=a.parameters)==null?void 0:p.docs)==null?void 0:y.source}}};const re=["Default","Single"];export{c as Default,a as Single,re as __namedExportsOrder,ne as default};
