@@ -1,0 +1,65 @@
+import{j as b}from"./jsx-runtime-DLK1c8mL.js";import{r as d}from"./index-obpcf3uZ.js";import{C as i}from"./index-Cv7MPijN.js";import{D as g}from"./decimal-C6g1TQWS.js";import"./iframe-DFj02Vrh.js";import"./index-D8LlVjNa.js";import"./index-hJ6zoFh7.js";import"./factory-CT43gu3E.js";import"./index-C_F0s_q2.js";import"./create-recipe-context-cQ96QGTW.js";import"./numericalFormatting-AQnGFCzV.js";import"./stringFormatting-uXC57Dsc.js";import"./index-xnQFBkQF.js";import"./iconBase-D-qK7w_K.js";import"./index-BbQKKgwy.js";import"./types-xgkBN97i.js";import"./index.esm-DX2PBgUy.js";import"./useColorFormatConverter-CIBfepim.js";import"./index-DOhZzwyQ.js";import"./index-C6GyZpWK.js";import"./IconWrapper-DoFcj4gq.js";import"./theme-DMYu2WI8.js";import"./types-BrwJZpL-.js";import"./color-mode-CvvGBAVy.js";import"./icon-button-iJKUe8mn.js";import"./button-BM10STi-.js";import"./attr-DhmmAXiK.js";import"./spinner-CqiEr1qg.js";import"./skeleton-BajQGoYs.js";import"./stack-huQZwe5u.js";import"./input-group-DeMWf3rJ.js";import"./field-2H0cDM5D.js";import"./create-slot-recipe-context-CkZzG8Q7.js";import"./icon-CAGxRSDQ.js";import"./use-field-context-BxiAs7PF.js";import"./create-context-DGA_u_gH.js";import"./factory-C1yDKUk1.js";import"./index-CehdyC4B.js";import"./create-split-props-1H4FxmAF.js";import"./use-environment-context-CttZFIz3.js";import"./field.anatomy-BD6VXUua.js";import"./index-pW82Y0Cx.js";import"./icons-DhMxiydi.js";import"./index--Ouwiaud.js";import"./index-BLVBAjsL.js";import"./index-WMBthFKS.js";import"./index-DlnLg0TF.js";import"./index-BEDwC8vw.js";import"./use-locale-context--8O4dasF.js";import"./flex-Hgy-kcRB.js";try{let n=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},e=new n.Error().stack;e&&(n._sentryDebugIds=n._sentryDebugIds||{},n._sentryDebugIds[e]="b4ad0bcf-c808-4b40-8404-89e44b6a655d",n._sentryDebugIdIdentifier="sentry-dbid-b4ad0bcf-c808-4b40-8404-89e44b6a655d")}catch{}const ye={component:i,tags:["pending"]},c={args:{mode:"dual",currencies:[{symbol:"BTC",precision:"8"},{symbol:"USD",precision:"2"}],balance:{quantity:new g(100),focus:"currencyOne"},exchangeRate:1e4,label:"Label"},render:function(e){const[a,o]=d.useState({currencyOne:"",currencyTwo:""});return b.jsx(i,{mode:"dual",currencies:e.currencies,balance:e.balance,exchangeRate:e.exchangeRate,label:e.label,value:a,onTextChange:r=>{o({currencyOne:r.currencyOne,currencyTwo:r.currencyTwo})}})}},t={args:{mode:"single",currencies:[{symbol:"CAD",precision:"2"}],balance:{quantity:new g(100),focus:"currencyOne"},label:"Label"},render:function(e){const[a,o]=d.useState({currencyOne:""});return b.jsx(i,{mode:"single",currencies:e.currencies,balance:e.balance,label:e.label,value:a,onTextChange:r=>{o({currencyOne:r.currencyOne})}})}};var s,u,l;c.parameters={...c.parameters,docs:{...(s=c.parameters)==null?void 0:s.docs,source:{originalSource:`{
+  args: {
+    mode: "dual",
+    currencies: [{
+      symbol: "BTC",
+      precision: "8"
+    }, {
+      symbol: "USD",
+      precision: "2"
+    }] as [CurrencyData, CurrencyData],
+    balance: {
+      quantity: new Decimal(100),
+      focus: "currencyOne"
+    },
+    exchangeRate: 10000,
+    label: "Label"
+  },
+  render: function Story(args) {
+    const [value, setValue] = useState<{
+      currencyOne: string;
+      currencyTwo: string;
+    }>({
+      currencyOne: "",
+      currencyTwo: ""
+    });
+    return <CurrencySwitchField mode="dual" currencies={args.currencies} balance={args.balance} exchangeRate={args.exchangeRate} label={args.label} value={value} onTextChange={(values: {
+      currencyOne: string;
+      currencyTwo: string;
+      focus: "currencyOne" | "currencyTwo";
+    }) => {
+      setValue({
+        currencyOne: values.currencyOne,
+        currencyTwo: values.currencyTwo
+      });
+    }} />;
+  }
+}`,...(l=(u=c.parameters)==null?void 0:u.docs)==null?void 0:l.source}}};var m,p,y;t.parameters={...t.parameters,docs:{...(m=t.parameters)==null?void 0:m.docs,source:{originalSource:`{
+  args: {
+    mode: "single",
+    currencies: [{
+      symbol: "CAD",
+      precision: "2"
+    }] as [CurrencyData],
+    balance: {
+      quantity: new Decimal(100),
+      focus: "currencyOne"
+    },
+    label: "Label"
+  },
+  render: function Story(args) {
+    const [value, setValue] = useState<{
+      currencyOne: string;
+    }>({
+      currencyOne: ""
+    });
+    return <CurrencySwitchField mode="single" currencies={args.currencies} balance={args.balance} label={args.label} value={value} onTextChange={(values: {
+      currencyOne: string;
+      focus: "currencyOne";
+    }) => {
+      setValue({
+        currencyOne: values.currencyOne
+      });
+    }} />;
+  }
+}`,...(y=(p=t.parameters)==null?void 0:p.docs)==null?void 0:y.source}}};const be=["Default","Single"];export{c as Default,t as Single,be as __namedExportsOrder,ye as default};
