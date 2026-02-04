@@ -1,9 +1,0 @@
-import{j as t}from"./jsx-runtime-BSdmSggo.js";import{C as i}from"./index-Dl8juEZR.js";import"./iframe-CuKY7SOM.js";import{T as l}from"./index-BRG-lOLa.js";import{F as p}from"./flex-DlH2HMyZ.js";import{B as d}from"./index-o-DUAi9a.js";import"./create-recipe-context-D2V1WGtt.js";import"./index-CARzu7rq.js";import"./factory-79QfSACv.js";try{let e=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},r=new e.Error().stack;r&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[r]="fe627563-ab4c-4666-8e10-cf4381f14597",e._sentryDebugIdIdentifier="sentry-dbid-fe627563-ab4c-4666-8e10-cf4381f14597")}catch{}const h={title:"colours/DarkBlues",component:l,tags:["pending"]},o={render:()=>t.jsx(p,{flexDir:"column",rowGap:"0.5rem",pb:"0.5rem",children:Object.entries(i.darkBlue).map(([e,r])=>t.jsx(d,{bgColor:r.value,h:"50px",w:"200px",position:"relative",children:t.jsx(l,{pos:"absolute",top:"50%",left:"50%",transform:"translate(-50%, -50%)",textStyle:"ManropeSemiboldBody",color:"white",children:e})},r.value))})};var a,n,s;o.parameters={...o.parameters,docs:{...(a=o.parameters)==null?void 0:a.docs,source:{originalSource:`{
-  render: () => <Flex flexDir="column" rowGap="0.5rem" pb="0.5rem">
-            {Object.entries(Colors.darkBlue).map(([key, value]) => <Box key={value.value} bgColor={value.value} h="50px" w="200px" position={"relative"}>
-                    <Text pos="absolute" top="50%" left="50%" transform="translate(-50%, -50%)" textStyle="ManropeSemiboldBody" color="white">
-                        {key}
-                    </Text>
-                </Box>)}
-        </Flex>
-}`,...(s=(n=o.parameters)==null?void 0:n.docs)==null?void 0:s.source}}};const B=["Standard"];export{o as Standard,B as __namedExportsOrder,h as default};
