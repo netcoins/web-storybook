@@ -1,0 +1,9 @@
+import{D as p}from"./index-CtwM2Q8q.js";import"./iframe-BJKArYqx.js";import"./jsx-runtime-CdFLmad7.js";import"./useTranslation-BBsKni38.js";import"./index-BwA5S_HZ.js";import"./context-BX5iW07T.js";import"./index-BZzrAx71.js";import"./factory-Btyvt5XX.js";import"./index-kd-bZCMa.js";import"./create-recipe-context-D8g0HNDB.js";try{let e=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},a=new e.Error().stack;a&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[a]="0a65a55b-980f-4b0c-863f-2a1b82c48cc2",e._sentryDebugIdIdentifier="sentry-dbid-0a65a55b-980f-4b0c-863f-2a1b82c48cc2")}catch{}const _={component:p,tags:["pending"]},s={args:{isPersonal:!0}},r={args:{isPersonal:!1}};var o,n,t;s.parameters={...s.parameters,docs:{...(o=s.parameters)==null?void 0:o.docs,source:{originalSource:`{
+  args: {
+    isPersonal: true
+  }
+}`,...(t=(n=s.parameters)==null?void 0:n.docs)==null?void 0:t.source}}};var i,c,d;r.parameters={...r.parameters,docs:{...(i=r.parameters)==null?void 0:i.docs,source:{originalSource:`{
+  args: {
+    isPersonal: false
+  }
+}`,...(d=(c=r.parameters)==null?void 0:c.docs)==null?void 0:d.source}}};const w=["IsPersonal","IsBusiness"];export{r as IsBusiness,s as IsPersonal,w as __namedExportsOrder,_ as default};
