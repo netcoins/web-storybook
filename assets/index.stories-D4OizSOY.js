@@ -1,0 +1,15 @@
+import{D}from"./index-BrLTTkrQ.js";import"./iframe-DqNY1Mbr.js";import"./jsx-runtime-DBxujOLp.js";import"./index-HDHCKL1S.js";import"./index-GX-cdDEZ.js";import"./iconBase-Dhemk1u5.js";import"./index-C-U7fR_d.js";import"./types-BN5KfxcR.js";import"./color-mode-DQcCenTp.js";import"./icon-button-OdaVNcYu.js";import"./button-BDgx4IwJ.js";import"./factory-C-6Oo286.js";import"./create-recipe-context-DoKTuRzb.js";import"./attr-DhmmAXiK.js";import"./spinner-CVPfB2ny.js";import"./skeleton-B9DZtg37.js";import"./index-CgPzQfL8.js";import"./stack-CwLzpoIO.js";import"./flex-FBoZP_4_.js";import"./icon-sAtHoJon.js";import"./index-CBAdQ3B9.js";import"./index-WrjGlb2s.js";import"./h-stack-DyUIOzCJ.js";import"./grid-BPSvrxsS.js";import"./v-stack-DRTr6cJK.js";import"./create-slot-recipe-context-FVkUQsqG.js";import"./factory-DJiU1ecU.js";import"./index-CehdyC4B.js";import"./create-split-props-1H4FxmAF.js";import"./index-Cy2PEqpR.js";import"./index-pW82Y0Cx.js";import"./index-BLVBAjsL.js";import"./index-DiyWfDba.js";import"./index-CejL_Qc4.js";import"./index-mX9v4zlJ.js";import"./use-environment-context-CZxUaOZO.js";import"./create-context-C4ZCr8N3.js";import"./use-locale-context-uxQvS48D.js";import"./useTranslation-CBDRnxhW.js";import"./context-CSnYtiZv.js";import"./use-disclosure-BFbZFIM4.js";import"./use-callback-ref-CaW4t8p9.js";import"./portal-MgF5sYLj.js";import"./popover-BAJ7iS9E.js";import"./split-presence-props-v67ewTJu.js";import"./use-presence-context-DZosDihu.js";import"./use-event-DClrxKfi.js";import"./index-DM8PzGVk.js";import"./index-BTpWAZSs.js";import"./floating-ui.utils.dom-CngQ6us8.js";import"./index-CsHGuxHM.js";import"./index-BpECUZYK.js";try{let t=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},o=new t.Error().stack;o&&(t._sentryDebugIds=t._sentryDebugIds||{},t._sentryDebugIds[o]="f466c97e-4f37-4100-9fc9-7ace1302877a",t._sentryDebugIdIdentifier="sentry-dbid-f466c97e-4f37-4100-9fc9-7ace1302877a")}catch{}const st={component:D},e={args:{label:"Start Date",minDate:new Date("01/01/2010"),onDateChange:t=>{}}},r={args:{label:"Start Date",minDate:new Date("01/01/2010"),maxDate:new Date("12/31/2022"),selectedDate:new Date(2021,0,1),onDateChange:t=>{}}};var a,i,m;e.parameters={...e.parameters,docs:{...(a=e.parameters)==null?void 0:a.docs,source:{originalSource:`{
+  args: {
+    label: "Start Date",
+    minDate: new Date("01/01/2010"),
+    onDateChange: (date: Date | null) => {}
+  }
+}`,...(m=(i=e.parameters)==null?void 0:i.docs)==null?void 0:m.source}}};var p,n,s;r.parameters={...r.parameters,docs:{...(p=r.parameters)==null?void 0:p.docs,source:{originalSource:`{
+  args: {
+    label: "Start Date",
+    minDate: new Date("01/01/2010"),
+    maxDate: new Date("12/31/2022"),
+    selectedDate: new Date(2021, 0, 1),
+    onDateChange: (date: Date | null) => {}
+  }
+}`,...(s=(n=r.parameters)==null?void 0:n.docs)==null?void 0:s.source}}};const Dt=["Default","PreselectedDate"];export{e as Default,r as PreselectedDate,Dt as __namedExportsOrder,st as default};
