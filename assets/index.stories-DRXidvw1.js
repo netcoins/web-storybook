@@ -1,0 +1,29 @@
+import{j as t}from"./jsx-runtime-BRD6R0GW.js";import{A as o}from"./index-DzoHJ-4K.js";import"./iframe-ZHyus-fW.js";import{T as c,a as d}from"./table-CdEPBKAr.js";import"./dateFormating-BZ2Y9dQA.js";import"./format-BNL-6LtM.js";import"./index-D5pH0UZE.js";import"./create-recipe-context-BKOzy2ji.js";import"./index-DghP1NKQ.js";import"./factory-Ct2hEz6c.js";import"./create-slot-recipe-context-C-dxgf5u.js";try{let e=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},n=new e.Error().stack;n&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[n]="8062643f-2981-4814-8570-a5ff7f8e1f2a",e._sentryDebugIdIdentifier="sentry-dbid-8062643f-2981-4814-8570-a5ff7f8e1f2a")}catch{}const v={component:o},s=()=>t.jsx(c,{css:{borderCollapse:"collapse"},w:"100%","data-sentry-element":"Table.Root","data-sentry-component":"Default","data-sentry-source-file":"index.stories.tsx",children:t.jsxs(d,{w:"full","data-sentry-element":"Table.Body","data-sentry-source-file":"index.stories.tsx",children:[t.jsx(o,{activity:{created_at:"Dec 20, 2024",message:"Lorem Ipsum",session:{id:"1"}},"data-sentry-element":"AccountActivityRow","data-sentry-source-file":"index.stories.tsx"}),t.jsx(o,{activity:{created_at:"Dec 21, 2024",message:"Lorem Ipsum",session:{id:"2"}},"data-sentry-element":"AccountActivityRow","data-sentry-source-file":"index.stories.tsx"}),t.jsx(o,{activity:{created_at:"Dec 22, 2024",message:"Lorem Ipsum",session:{id:"3"}},"data-sentry-element":"AccountActivityRow","data-sentry-source-file":"index.stories.tsx"})]})});var a,r,i;s.parameters={...s.parameters,docs:{...(a=s.parameters)==null?void 0:a.docs,source:{originalSource:`() => {
+  return <Table.Root css={{
+    borderCollapse: "collapse"
+  }} w="100%">
+            <Table.Body w="full">
+                <AccountActivityRow activity={{
+        created_at: "Dec 20, 2024",
+        message: "Lorem Ipsum",
+        session: {
+          id: "1"
+        }
+      }} />
+                <AccountActivityRow activity={{
+        created_at: "Dec 21, 2024",
+        message: "Lorem Ipsum",
+        session: {
+          id: "2"
+        }
+      }} />
+                <AccountActivityRow activity={{
+        created_at: "Dec 22, 2024",
+        message: "Lorem Ipsum",
+        session: {
+          id: "3"
+        }
+      }} />
+            </Table.Body>
+        </Table.Root>;
+}`,...(i=(r=s.parameters)==null?void 0:r.docs)==null?void 0:i.source}}};const D=["Default"];export{s as Default,D as __namedExportsOrder,v as default};
