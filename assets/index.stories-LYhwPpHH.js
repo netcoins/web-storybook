@@ -1,0 +1,75 @@
+import{j as r}from"./jsx-runtime-C-kOd8ra.js";import{C as e}from"./index-CRbwRwgm.js";import"./iframe-BxgWbTN1.js";import{T as m,a as c}from"./table-BYjorQHx.js";import"./index-CDrEkGqI.js";import"./ada-DdEaAUc1.js";import"./btc-CNRURAO_.js";import"./eth-Rbed9pP_.js";import"./sol-DhXqqGh8.js";import"./index-GTEVjHNo.js";import"./index-DBbTb9B2.js";import"./create-recipe-context-COPnnEYf.js";import"./factory-BJmwlrVc.js";import"./index-koSqZCrf.js";import"./flex-xRwok3JK.js";import"./index-BwfINbw1.js";import"./index-D2UEgRz5.js";import"./check-circle-0lU_B3T3.js";import"./hooks-CRDvF4he.js";import"./splitApi-C9JHreUn.js";import"./config-sug7lyrQ.js";import"./routes-BoTWdhVJ.js";import"./ReactIconWrapper-BvP5l-zh.js";import"./icon-DeqR9OkW.js";import"./index-BCNt-t03.js";import"./button-DI7a9-fU.js";import"./attr-DhmmAXiK.js";import"./spinner-BwI3w9OM.js";import"./useRestrictNavigation-JUuM3OCN.js";import"./selectors-gt951px1.js";import"./apiSlice-DU3X9Lci.js";import"./stringFormatting-8GPVZ4Nh.js";import"./index-B2l2SguH.js";import"./chunk-JMJ3UQ3L-Dyt5es9z.js";import"./window-DO3u89I7.js";import"./index-C7JHjPDe.js";import"./iconBase-C_LfVN9r.js";import"./chart-up-DZmgS0LG.js";import"./index-Di19QIwz.js";import"./useTranslation-T_n-Za-8.js";import"./context-BClljs4W.js";import"./index-DMOTrPRm.js";import"./index-DJj9bHDr.js";import"./index-CQF7-bCJ.js";import"./portal-EGCrgRPk.js";import"./index-ZoHJkkX0.js";import"./index-BX6Sg72M.js";import"./index-3yZECisG.js";import"./use-environment-context-Dqk0w5Su.js";import"./create-context-BbxrZvQg.js";import"./menu-BDZSHbVO.js";import"./create-slot-recipe-context-Bs5XWZRb.js";import"./icons-DjPR7SXx.js";import"./create-split-props-1H4FxmAF.js";import"./split-presence-props-v67ewTJu.js";import"./use-presence-context-DD1cw0e2.js";import"./index-BLVBAjsL.js";import"./index-BdNz4lOZ.js";import"./use-event-ABDmkwzo.js";import"./index-COCaMt2I.js";import"./index-pW82Y0Cx.js";import"./index-CsblxyiR.js";import"./floating-ui.utils.dom-CngQ6us8.js";import"./index-cMlMUVsx.js";import"./use-locale-context-DKtRHnB2.js";import"./factory-BfAgfkbe.js";import"./index-DJghdAt8.js";import"./image-DNnZEnXo.js";import"./index-BrFvF7i7.js";import"./types-DAGKeQ17.js";import"./color-mode-CifVEnSw.js";import"./icon-button-B5QWHccg.js";import"./skeleton-CB6q5jgg.js";import"./stack-DMvBj6s9.js";import"./index-CNjscwEN.js";import"./index.esm-BgDACuSt.js";import"./index-DrP9898n.js";import"./useColorFormatConverter-C-E8HYKD.js";import"./index-B86AYc71.js";import"./index-TinvK5ZL.js";import"./IconWrapper-CLbM1tne.js";import"./theme-DMYu2WI8.js";import"./types-_1ZkbGy3.js";import"./input-group-zT3NHBEW.js";import"./input-C5lfnm3P.js";import"./use-field-context-DF1fTboI.js";import"./field-qMT6_b4b.js";import"./field.anatomy-BD6VXUua.js";import"./index-Dy8f-fdX.js";import"./link-DcTa6NRR.js";import"./index-D3fNSxba.js";import"./index-D05NgivJ.js";import"./dialog-BYaPHi48.js";import"./render-strategy-D5LnckHS.js";import"./index-CXYtSp3x.js";import"./index-ZUPMn3wG.js";import"./useReferralUtils-BGYbkKuf.js";import"./index-69nkVEe1.js";import"./index-oT7I8gkf.js";import"./apiSlice-CIVyznv_.js";import"./h-stack-Bvihl1Qg.js";import"./index-P1AvgCi7.js";import"./index-BpnCp_Re.js";import"./index-CGuz8T6M.js";import"./breakpoints-BQAAYUU1.js";import"./omit-CKMndbTo.js";import"./index-BeIEPu7L.js";import"./fieldset.anatomy-CDB1fDzy.js";import"./checkbox.anatomy-C16Rs4p3.js";import"./index-Cl1NTmOV.js";import"./index-w4LQ1Xt6.js";import"./index-HXDM40cO.js";import"./useMiddleTruncatedText-BMTF7e25.js";import"./index-DuzhHh6_.js";import"./v-stack-CWxymABv.js";import"./index-Djg_KR-D.js";import"./index-CBlGHr7Z.js";import"./use-breakpoint-CVWZ7ajB.js";import"./use-callback-ref-CIYvihZ_.js";import"./decimal-C6g1TQWS.js";import"./index-D_RNHZGb.js";import"./useGetAssetDetails-BlEA-X_Y.js";import"./apiSlice-lBtHW9IG.js";import"./useRegion-CplZqXvU.js";import"./useCalculateBalances-AgSL5g71.js";import"./numericalFormatting-jVDETd61.js";import"./index-BeIkKR_J.js";import"./index-DehCCBuc.js";import"./index-AMtGdmFA.js";import"./index-DzKRDAg8.js";import"./index-0L7VRYrg.js";import"./popover-CwB_wtfa.js";import"./index-Dfhs1zZW.js";import"./index-1JyBgDWR.js";import"./index-DhFDGtGm.js";import"./index-3ktJHEyu.js";import"./index-Du-4XbWp.js";import"./index-Dsx1WNut.js";import"./index-BkVXroZv.js";import"./index-BMsvFC-l.js";import"./index-Cjt9G46Q.js";import"./index-XWk8MX5J.js";import"./index-BqoyyACw.js";import"./index-DCk3XA2B.js";import"./index-B3GLBau-.js";import"./types-MqQCknrl.js";import"./use-disclosure-Browm_Cy.js";import"./index-D4EnM7WP.js";try{let t=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},a=new t.Error().stack;a&&(t._sentryDebugIds=t._sentryDebugIds||{},t._sentryDebugIds[a]="33310ea2-e75b-41f7-a709-66ea7fcaded5",t._sentryDebugIdIdentifier="sentry-dbid-33310ea2-e75b-41f7-a709-66ea7fcaded5")}catch{}var o=(t=>(t.PRICE_ASC="price",t.PRICE_DESC="-price",t.HR24PERCENT_ASC="hr24Percent",t.HR24PERCENT_DESC="-hr24Percent",t.MARKETCAP_ASC="marketCap",t.MARKETCAP_DESC="-marketCap",t))(o||{});const Zr={component:e},i=t=>r.jsx(m,{css:{borderCollapse:"collapse"},w:"100%","data-sentry-element":"Table.Root","data-sentry-component":"Default","data-sentry-source-file":"index.stories.tsx",children:r.jsxs(c,{w:"full","data-sentry-element":"Table.Body","data-sentry-source-file":"index.stories.tsx",children:[r.jsx(e,{coin:{name:"Bitcoin",symbol:"BTC","24h_percent":.5,price:"10000",statistics:{market_cap_cad:1e6},precision:"8",price_precision:2,restrictions:{withdraw:!0,deposit:!0,instant_buy:!0,instant_sell:!0,limit_buy:!0,limit_sell:!0,can_stake:!0},tags:["tag1","tag2"]},price:"10000",coinSort:o.PRICE_ASC,sortData:()=>new Set,setFavouritesData:()=>{},favouritesDataRef:{current:new Set},isFavourite:!0,handleViewMore:()=>{},isLast:!1,"data-sentry-element":"TradingRow","data-sentry-source-file":"index.stories.tsx"}),r.jsx(e,{coin:{name:"Ethereum",symbol:"ETH",price:"1000",precision:"6",price_precision:2,"24h_percent":.5,statistics:{market_cap_cad:1e6},restrictions:{withdraw:!0,deposit:!0,instant_buy:!0,instant_sell:!0,limit_buy:!0,limit_sell:!0,can_stake:!0},tags:["tag1","tag2"]},price:"1000",coinSort:o.PRICE_ASC,sortData:()=>new Set,setFavouritesData:()=>{},favouritesDataRef:{current:new Set},isFavourite:!1,handleViewMore:()=>{},isLast:!1,"data-sentry-element":"TradingRow","data-sentry-source-file":"index.stories.tsx"}),r.jsx(e,{coin:{price:"1000",name:"Cardano",symbol:"ADA","24h_percent":.5,precision:"4",price_precision:4,statistics:{market_cap_cad:1e6},restrictions:{withdraw:!1,deposit:!1,instant_buy:!0,instant_sell:!0,limit_buy:!0,limit_sell:!0,can_stake:!0},tags:["tag1","tag2"]},price:"1000",coinSort:o.PRICE_ASC,sortData:()=>new Set,setFavouritesData:()=>{},favouritesDataRef:{current:new Set},isFavourite:!1,handleViewMore:()=>{},isLast:!0,"data-sentry-element":"TradingRow","data-sentry-source-file":"index.stories.tsx"})]})});var n,s,p;i.parameters={...i.parameters,docs:{...(n=i.parameters)==null?void 0:n.docs,source:{originalSource:`storyArgs => <Table.Root css={{
+  borderCollapse: "collapse"
+}} w="100%">
+        <Table.Body w="full">
+            <TradingRow coin={{
+      name: "Bitcoin",
+      symbol: "BTC",
+      "24h_percent": 0.5,
+      price: "10000",
+      statistics: {
+        market_cap_cad: 1000000
+      },
+      precision: "8",
+      price_precision: 2,
+      restrictions: {
+        withdraw: true,
+        deposit: true,
+        instant_buy: true,
+        instant_sell: true,
+        limit_buy: true,
+        limit_sell: true,
+        can_stake: true
+      },
+      tags: ["tag1", "tag2"]
+    }} price="10000" coinSort={COIN_SORT.PRICE_ASC} sortData={() => new Set()} setFavouritesData={() => {}} favouritesDataRef={{
+      current: new Set()
+    }} isFavourite handleViewMore={() => {}} isLast={false} />
+            <TradingRow coin={{
+      name: "Ethereum",
+      symbol: "ETH",
+      price: "1000",
+      precision: "6",
+      price_precision: 2,
+      "24h_percent": 0.5,
+      statistics: {
+        market_cap_cad: 1000000
+      },
+      restrictions: {
+        withdraw: true,
+        deposit: true,
+        instant_buy: true,
+        instant_sell: true,
+        limit_buy: true,
+        limit_sell: true,
+        can_stake: true
+      },
+      tags: ["tag1", "tag2"]
+    }} price="1000" coinSort={COIN_SORT.PRICE_ASC} sortData={() => new Set()} setFavouritesData={() => {}} favouritesDataRef={{
+      current: new Set()
+    }} isFavourite={false} handleViewMore={() => {}} isLast={false} />
+            <TradingRow coin={{
+      price: "1000",
+      name: "Cardano",
+      symbol: "ADA",
+      "24h_percent": 0.5,
+      precision: "4",
+      price_precision: 4,
+      statistics: {
+        market_cap_cad: 1000000
+      },
+      restrictions: {
+        withdraw: false,
+        deposit: false,
+        instant_buy: true,
+        instant_sell: true,
+        limit_buy: true,
+        limit_sell: true,
+        can_stake: true
+      },
+      tags: ["tag1", "tag2"]
+    }} price="1000" coinSort={COIN_SORT.PRICE_ASC} sortData={() => new Set()} setFavouritesData={() => {}} favouritesDataRef={{
+      current: new Set()
+    }} isFavourite={false} handleViewMore={() => {}} isLast />
+        </Table.Body>
+    </Table.Root>`,...(p=(s=i.parameters)==null?void 0:s.docs)==null?void 0:p.source}}};const $r=["Default"];export{i as Default,$r as __namedExportsOrder,Zr as default};
