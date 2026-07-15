@@ -1,0 +1,54 @@
+import{j as e}from"./jsx-runtime-B7TZUReY.js";import{R as M}from"./ReactIconWrapper-3TbhrlLo.js";import{u as F,a as O,C as P}from"./index-C3vzSa0G.js";import{T as q}from"./index-DG7hPyX_.js";import{L as V}from"./index-CxB0sHRX.js";import{T as G}from"./index-DaqKmkV5.js";import{u as z}from"./useGetAssetDetails-b-v_lgp0.js";import{u as U}from"./useRegion-DqO12cJb.js";import{u as N}from"./useRestrictNavigation-BTeqhlYR.js";import{R as A}from"./routes-BPoItKoC.js";import{u as X,D as $}from"./useCalculateBalances-B9G_kePT.js";import{r as b}from"./index-C5Vv_JDe.js";import{c as K}from"./index-EAA8DpRi.js";import{I as Q}from"./index-CMXdzu4P.js";import"./iframe-lXBdsvaw.js";import{u as H}from"./useTranslation-6mIJg2f7.js";import{u as W}from"./use-token-BLQndzf3.js";import{F as _}from"./flex-C2DKTzfX.js";import{T as u}from"./index-BHwtE2zh.js";import{T as J,e as Y,b as R,d as B,a as Z,c as ee}from"./table-DCMn0yzx.js";import"./icon-ifko-XvA.js";import"./create-recipe-context-DTwUQUSe.js";import"./factory-C_Hp2xGR.js";import"./index-7kd47Sx8.js";import"./ada-DdEaAUc1.js";import"./btc-CNRURAO_.js";import"./eth-Rbed9pP_.js";import"./sol-DhXqqGh8.js";import"./index-BQQ2iTxJ.js";import"./index-UuiWqqAb.js";import"./index-B0UncBKU.js";import"./numericalFormatting-DYWvxr-t.js";import"./decimal-C6g1TQWS.js";import"./stringFormatting-CSeqN_He.js";import"./selectors-zE6jRApm.js";import"./apiSlice-kjjpDci3.js";import"./config-CaXIZtxI.js";import"./apiSlice-CSNwefkn.js";import"./useCryptoMedianConversion-DiIjFuJ3.js";import"./apiSlice-CqPDg4Qw.js";import"./selectors-Dsd-InR1.js";import"./apiSlice-CW5ZiXvg.js";import"./currencyHelpers-BoA-q3IW.js";import"./apiSlice-BYHZbvkR.js";import"./IconWrapper-CpPomwGz.js";import"./useColorFormatConverter-B2AIkOPz.js";import"./index-YbsbSFjK.js";import"./image-WzRPSeF5.js";import"./skeleton-EU0GMmTc.js";import"./stack-COiJUwoH.js";import"./index-Ct77yVhc.js";import"./iconBase-BmKHyfZ2.js";import"./portal-CHYHrCo2.js";import"./index-ZoHJkkX0.js";import"./index-CoqHZ5HB.js";import"./index-CWaBKySY.js";import"./use-environment-context-BWOmnnx9.js";import"./create-context-DsB-YBFX.js";import"./popover-BY0-gi9Y.js";import"./create-slot-recipe-context-oRKjWrpY.js";import"./split-presence-props-DXzEKp2t.js";import"./create-split-props-1H4FxmAF.js";import"./use-presence-context-D82nJcfn.js";import"./index-BLVBAjsL.js";import"./index-BKl0Euwu.js";import"./use-event-Bnvz-n-p.js";import"./index-GglaVOCO.js";import"./index-pW82Y0Cx.js";import"./index-CXpwuWEX.js";import"./floating-ui.utils.dom-CngQ6us8.js";import"./index-jjMpk5nr.js";import"./index-8lXC83iU.js";import"./use-locale-context-CKoHjI0T.js";import"./factory-CAvMfCbn.js";import"./link-h5e8U26m.js";import"./apiSlice-UuTBq3w7.js";import"./index-B3Y-l9fm.js";import"./chunk-JMJ3UQ3L-DCKMQ8_a.js";import"./context-D3UGl7Qp.js";try{let t=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},s=new t.Error().stack;s&&(t._sentryDebugIds=t._sentryDebugIds||{},t._sentryDebugIds[s]="b10b2987-0785-4adb-8d55-71b9e32129fc",t._sentryDebugIdIdentifier="sentry-dbid-b10b2987-0785-4adb-8d55-71b9e32129fc")}catch{}function te(){const{navigate:t}=N(),{t:s}=H("app"),{cryptoBalances:r,isLoadingBalances:d,isLoadingPrices:i,valueForAsset:x}=X(),{data:C,isLoading:o}=F(void 0),{data:a,isLoading:p}=z(),{isCAUser:T}=U(),g=()=>{t(A.DASHBOARD_TRADE)},n=c=>{t(`${A.MARKET_DETAILS}?asset=${c}`)},l=b.useMemo(()=>Object.entries(r).reduce((c,[w,j])=>{const k=x(w,j);return k>=$&&c.push({symbol:w,balance:j,value:k}),c},[]),[r,i]),h=b.useMemo(()=>p||o||d||i,[p,o,d,i]);return e.jsx(m,{onBrowseCoinsClick:g,coins:l,allAssetDetails:a,dailyInsights:C,isLoading:h,tooltip:s(T?"dashboard.tooltip.performance24hCA":"dashboard.tooltip.performance24hUS"),onAssetClick:n,"data-sentry-element":"CoinBalanceTableComponent","data-sentry-component":"CoinBalanceTable","data-sentry-source-file":"index.tsx"})}const m=({coins:t,allAssetDetails:s,dailyInsights:r,isLoading:d,tooltip:i,onAssetClick:x,onBrowseCoinsClick:C})=>{const{t:o}=H("app"),[a,p]=b.useState(-1),T=W("colors","grey.light.10"),g=b.useMemo(()=>t.sort((n,l)=>(n.value-l.value)*a),[t,a]);return e.jsx(_,{flexDir:"column",w:"100%","data-sentry-element":"Flex","data-sentry-component":"CoinBalanceTableComponent","data-sentry-source-file":"index.tsx",children:e.jsxs(J,{variant:"line",css:{tableLayout:"fixed"},"data-sentry-element":"Table.Root","data-sentry-source-file":"index.tsx",children:[e.jsx(Y,{"data-sentry-element":"Table.Header","data-sentry-source-file":"index.tsx",children:e.jsxs(R,{css:{"& th":{textTransform:"none",height:{base:8,sm:10},paddingTop:0,paddingBottom:0,borderBottom:`1px solid ${T}`}},pr:{base:"0.5rem",md:"1rem"},pl:0,bg:"grey.light.5","data-sentry-element":"Table.Row","data-sentry-source-file":"index.tsx",children:[e.jsx(B,{w:{md:"25%",base:"50%"},px:0,pl:2,"data-sentry-element":"Table.ColumnHeader","data-sentry-source-file":"index.tsx",children:e.jsx(u,{textStyle:"ManropeSemiboldXSmall",color:"grey.light.90",textTransform:"none","data-sentry-element":"Text","data-sentry-source-file":"index.tsx",children:o("dashboard.cryptoAssets")})}),e.jsx(B,{w:"25%",px:0,textAlign:"right",display:{base:"none",md:"table-cell"},"data-sentry-element":"Table.ColumnHeader","data-sentry-source-file":"index.tsx",children:e.jsx(u,{textStyle:"ManropeSemiboldXSmall",color:"grey.light.90",textTransform:"none","data-sentry-element":"Text","data-sentry-source-file":"index.tsx",children:o("dashboard.marketPrice")})}),e.jsx(B,{w:"25%",px:0,textAlign:"right",display:{base:"none",md:"table-cell"},"data-sentry-element":"Table.ColumnHeader","data-sentry-source-file":"index.tsx",children:e.jsxs(_,{justifyContent:"flex-end",alignItems:"center","data-sentry-element":"Flex","data-sentry-source-file":"index.tsx",children:[e.jsx(u,{textStyle:"ManropeSemiboldXSmall",color:"grey.light.90",textTransform:"none","data-sentry-element":"Text","data-sentry-source-file":"index.tsx",children:o("dashboard.24hPerformance")}),e.jsx(q,{bodyText:i,triggerComponent:e.jsx(_,{mt:.5,children:e.jsx(M,{icon:Q,size:16,color:"blue.100"})}),"data-sentry-element":"Tooltip","data-sentry-source-file":"index.tsx"})]})}),e.jsx(G,{w:{md:"25%",base:"50%"},isSelected:!1,isAsc:a===1,isDesc:a===-1,px:0,text:o("dashboard.totalPerformance"),justifyContent:"flex-end",onClick:()=>p(n=>n*-1),"data-sentry-element":"ThSorting","data-sentry-source-file":"index.tsx"})]})}),e.jsx(Z,{w:"full",py:1,"data-sentry-element":"Table.Body","data-sentry-source-file":"index.tsx",children:d?[1,2,3].map(n=>e.jsx(O,{},n)):e.jsx(e.Fragment,{children:r&&s&&t.length>0?g.map(({symbol:n,balance:l,value:h})=>n in s&&e.jsx(P,{assetDetails:s[n],assetInsights:r[n],onRowClick:()=>x(n),balance:l,value:h},n)):e.jsx(R,{borderWidth:"1px",borderColor:"grey.light.5",borderRadius:"0px 0px 6px 6px",children:e.jsxs(ee,{px:6,pt:{base:6,sm:9},pb:6,children:[e.jsx(u,{color:"grey.light.50",textStyle:"ManropeSemiboldBodySmall",mb:6,children:o("dashboard.noAssets")}),e.jsx(V,{icon:K,text:o("dashboard.browseCoins"),onClick:C})]})})})})]})})};try{m.displayName="CoinBalanceTableComponent",m.__docgenInfo={description:"",displayName:"CoinBalanceTableComponent",props:{coins:{defaultValue:null,description:"",name:"coins",required:!0,type:{name:"{ symbol: string; balance: string; value: number; }[]"}},allAssetDetails:{defaultValue:null,description:"",name:"allAssetDetails",required:!1,type:{name:"Record<string, any>"}},dailyInsights:{defaultValue:null,description:"",name:"dailyInsights",required:!1,type:{name:"Record<string, any>"}},onBrowseCoinsClick:{defaultValue:null,description:"",name:"onBrowseCoinsClick",required:!0,type:{name:"() => void"}},onAssetClick:{defaultValue:null,description:"",name:"onAssetClick",required:!0,type:{name:"(symbol: string) => void"}},tooltip:{defaultValue:null,description:"",name:"tooltip",required:!0,type:{name:"string"}},isLoading:{defaultValue:null,description:"",name:"isLoading",required:!1,type:{name:"boolean"}}}}}catch{}const At={component:te},f=()=>e.jsx(m,{tooltip:"tooltip",onBrowseCoinsClick:()=>{},onAssetClick:()=>{},coins:[{balance:"10000",symbol:"BTC",value:1e3},{balance:"10000",symbol:"ETH",value:1e3}],allAssetDetails:{BTC:{precision:"8",symbol:"BTC",name:"Bitcoin",price:"10000","24h_percent":1.23,restrictions:{withdraw:!0,deposit:!0,instant_buy:!1,instant_sell:!1,limit_buy:!1,limit_sell:!1,can_stake:!1}},ETH:{precision:"8",symbol:"ETH",name:"Ethereum",price:"10000","24h_percent":1.23,restrictions:{withdraw:!1,deposit:!1,instant_buy:!1,instant_sell:!1,limit_buy:!1,limit_sell:!1,can_stake:!1}}},dailyInsights:{performance:{totalCost:"1000",simpleReturn:"1000",simpleReturnPercent:"10",unrealizedGL:"1000",unrealizedGLPercent:"10"}},"data-sentry-element":"CoinBalanceTableComponent","data-sentry-component":"Default","data-sentry-source-file":"index.stories.tsx"}),y=()=>e.jsx(m,{onAssetClick:()=>{},coins:[],onBrowseCoinsClick:()=>{},tooltip:"tooltip","data-sentry-element":"CoinBalanceTableComponent","data-sentry-component":"EmptyTable","data-sentry-source-file":"index.stories.tsx"});var S,D,E;f.parameters={...f.parameters,docs:{...(S=f.parameters)==null?void 0:S.docs,source:{originalSource:`() => {
+  return <CoinBalanceTableComponent tooltip="tooltip" onBrowseCoinsClick={() => {}} onAssetClick={() => {}} coins={[{
+    balance: "10000",
+    symbol: "BTC",
+    value: 1000
+  }, {
+    balance: "10000",
+    symbol: "ETH",
+    value: 1000
+  }]} allAssetDetails={{
+    BTC: {
+      precision: "8",
+      symbol: "BTC",
+      name: "Bitcoin",
+      price: "10000",
+      "24h_percent": 1.23,
+      restrictions: {
+        withdraw: true,
+        deposit: true,
+        instant_buy: false,
+        instant_sell: false,
+        limit_buy: false,
+        limit_sell: false,
+        can_stake: false
+      }
+    },
+    ETH: {
+      precision: "8",
+      symbol: "ETH",
+      name: "Ethereum",
+      price: "10000",
+      "24h_percent": 1.23,
+      restrictions: {
+        withdraw: false,
+        deposit: false,
+        instant_buy: false,
+        instant_sell: false,
+        limit_buy: false,
+        limit_sell: false,
+        can_stake: false
+      }
+    }
+  }} dailyInsights={{
+    performance: {
+      totalCost: "1000",
+      simpleReturn: "1000",
+      simpleReturnPercent: "10",
+      unrealizedGL: "1000",
+      unrealizedGLPercent: "10"
+    }
+  }} />;
+}`,...(E=(D=f.parameters)==null?void 0:D.docs)==null?void 0:E.source}}};var I,L,v;y.parameters={...y.parameters,docs:{...(I=y.parameters)==null?void 0:I.docs,source:{originalSource:`() => {
+  return <CoinBalanceTableComponent onAssetClick={() => {}} coins={[]} onBrowseCoinsClick={() => {}} tooltip="tooltip" />;
+}`,...(v=(L=y.parameters)==null?void 0:L.docs)==null?void 0:v.source}}};const Rt=["Default","EmptyTable"];export{f as Default,y as EmptyTable,Rt as __namedExportsOrder,At as default};
