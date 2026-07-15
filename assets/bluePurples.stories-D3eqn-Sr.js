@@ -1,9 +1,0 @@
-import{j as t}from"./jsx-runtime-B7TZUReY.js";import{C as d}from"./index-YbsbSFjK.js";import"./iframe-lXBdsvaw.js";import{T as a}from"./index-BHwtE2zh.js";import{F as p}from"./flex-C2DKTzfX.js";import{B as i}from"./index-UuiWqqAb.js";import"./create-recipe-context-DTwUQUSe.js";import"./index-C5Vv_JDe.js";import"./factory-C_Hp2xGR.js";try{let e=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},r=new e.Error().stack;r&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[r]="1eddacf0-9757-46cb-b97d-f1f4c91ec5b3",e._sentryDebugIdIdentifier="sentry-dbid-1eddacf0-9757-46cb-b97d-f1f4c91ec5b3")}catch{}const h={title:"colours/BluePurples",component:a,tags:["pending"]},o={render:()=>t.jsx(p,{flexDir:"column",rowGap:"0.5rem",pb:"0.5rem",children:Object.entries(d.bluePurple).map(([e,r])=>t.jsx(i,{bgColor:r.value,h:"50px",w:"200px",position:"relative",children:t.jsx(a,{pos:"absolute",top:"50%",left:"50%",transform:"translate(-50%, -50%)",textStyle:"ManropeSemiboldBody",color:"white",children:e})},r.value))})};var l,n,s;o.parameters={...o.parameters,docs:{...(l=o.parameters)==null?void 0:l.docs,source:{originalSource:`{
-  render: () => <Flex flexDir="column" rowGap="0.5rem" pb="0.5rem">
-            {Object.entries(Colors.bluePurple).map(([key, value]) => <Box key={value.value} bgColor={value.value} h="50px" w="200px" position={"relative"}>
-                    <Text pos="absolute" top="50%" left="50%" transform="translate(-50%, -50%)" textStyle="ManropeSemiboldBody" color="white">
-                        {key}
-                    </Text>
-                </Box>)}
-        </Flex>
-}`,...(s=(n=o.parameters)==null?void 0:n.docs)==null?void 0:s.source}}};const v=["Standard"];export{o as Standard,v as __namedExportsOrder,h as default};
