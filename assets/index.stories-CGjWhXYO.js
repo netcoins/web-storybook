@@ -1,7 +1,0 @@
-import{j as t}from"./jsx-runtime-DxBEdQmC.js";import{L as m,D as u,F as f}from"./index-DUyDm2Nc.js";import"./iframe-BKww4BIe.js";import{c as g}from"./factory-C7ap2FvA.js";import"./index-CP_patft.js";import"./flex-igvNLbTd.js";import"./index-UoMFnjkK.js";import"./index-CZvoKBsi.js";import"./create-recipe-context-pXnyIBHL.js";import"./spinner-DLmv6_hO.js";try{let e=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},o=new e.Error().stack;o&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[o]="7097b8f7-7ba8-4c98-b695-715aa0ec1970",e._sentryDebugIdIdentifier="sentry-dbid-7097b8f7-7ba8-4c98-b695-715aa0ec1970")}catch{}const l=g("div",{base:{display:"flex",alignItems:"center",justifyContent:"center"},variants:{inline:{true:{display:"inline-flex"}}}});l.displayName="Center";const h={component:m,tags:["pending"]},r={render:()=>t.jsx(l,{children:t.jsx(u,{})})},n={render:()=>t.jsx(f,{})};var a,s,i;r.parameters={...r.parameters,docs:{...(a=r.parameters)==null?void 0:a.docs,source:{originalSource:`{
-  render: () => <Center>
-            <DotTyping />
-        </Center>
-}`,...(i=(s=r.parameters)==null?void 0:s.docs)==null?void 0:i.source}}};var d,c,p;n.parameters={...n.parameters,docs:{...(d=n.parameters)==null?void 0:d.docs,source:{originalSource:`{
-  render: () => <FullScreenLoading />
-}`,...(p=(c=n.parameters)==null?void 0:c.docs)==null?void 0:p.source}}};const C=["DotsLoader","FullScreenSpinnerLoader"];export{r as DotsLoader,n as FullScreenSpinnerLoader,C as __namedExportsOrder,h as default};
