@@ -1,9 +1,0 @@
-import{j as t}from"./jsx-runtime-RQ8k3sMt.js";import{C as d}from"./index-B7H_FkDm.js";import"./iframe-B47DNco7.js";import{T as s}from"./index-Ddyb6Wlu.js";import{F as p}from"./flex-CVNQypev.js";import{B as i}from"./index-CIM3bxyb.js";import"./create-recipe-context-BA02WGjK.js";import"./index-OCzkGLPT.js";import"./factory-P0_JX4kp.js";try{let e=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},r=new e.Error().stack;r&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[r]="f2c9afaa-ea83-451e-bd66-22abcd84e46d",e._sentryDebugIdIdentifier="sentry-dbid-f2c9afaa-ea83-451e-bd66-22abcd84e46d")}catch{}const h={title:"colours/BluePurples",component:s,tags:["pending"]},o={render:()=>t.jsx(p,{flexDir:"column",rowGap:"0.5rem",pb:"0.5rem",children:Object.entries(d.bluePurple).map(([e,r])=>t.jsx(i,{bgColor:r.value,h:"50px",w:"200px",position:"relative",children:t.jsx(s,{pos:"absolute",top:"50%",left:"50%",transform:"translate(-50%, -50%)",textStyle:"ManropeSemiboldBody",color:"white",children:e})},r.value))})};var a,l,n;o.parameters={...o.parameters,docs:{...(a=o.parameters)==null?void 0:a.docs,source:{originalSource:`{
-  render: () => <Flex flexDir="column" rowGap="0.5rem" pb="0.5rem">
-            {Object.entries(Colors.bluePurple).map(([key, value]) => <Box key={value.value} bgColor={value.value} h="50px" w="200px" position={"relative"}>
-                    <Text pos="absolute" top="50%" left="50%" transform="translate(-50%, -50%)" textStyle="ManropeSemiboldBody" color="white">
-                        {key}
-                    </Text>
-                </Box>)}
-        </Flex>
-}`,...(n=(l=o.parameters)==null?void 0:l.docs)==null?void 0:n.source}}};const v=["Standard"];export{o as Standard,v as __namedExportsOrder,h as default};
