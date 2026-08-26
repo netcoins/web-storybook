@@ -1,0 +1,13 @@
+import{j as r}from"./jsx-runtime-BmIRPXcQ.js";import{R as n}from"./index-CB4iaRV2.js";import"./iframe-BVrz1qaQ.js";import{B as s}from"./index-DZlDJ0vk.js";import"./types-D4SmEPqK.js";import"./theme-D-orLjha.js";import"./color-mode-DmyQw_E2.js";import"./index-BkU-Oecg.js";import"./iconBase-CgPeBTf3.js";import"./icon-button-D0ru4QqC.js";import"./button-Dn1XneO_.js";import"./factory-BQmPCA93.js";import"./create-recipe-context-DF6Pj0BR.js";import"./attr-DhmmAXiK.js";import"./spinner-q2SUT4TQ.js";import"./skeleton-CaYyUU15.js";import"./stack-DSoOKlT1.js";import"./input-group-BmJokjDX.js";import"./input-B6Y2GbJ7.js";import"./factory-9gAU_emI.js";import"./index-DzMh4kgF.js";import"./use-field-context-CC8xWnYL.js";import"./create-context-DNduormU.js";import"./field-CNpNIGCV.js";import"./create-slot-recipe-context-BE3-Z8VU.js";import"./icon-M9cBGUYI.js";import"./create-split-props-1H4FxmAF.js";import"./use-environment-context-6TT2R8NC.js";import"./field.anatomy-DAItm6Mi.js";import"./index-pW82Y0Cx.js";try{let e=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},p=new e.Error().stack;p&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[p]="677f16cf-5548-4a13-ba43-efa22ff3d71e",e._sentryDebugIdIdentifier="sentry-dbid-677f16cf-5548-4a13-ba43-efa22ff3d71e")}catch{}const Q={component:n},o={render:()=>r.jsx(s,{maxW:"350px",children:r.jsx(n,{label:"Label",value:"Read only value"})})},a={render:()=>r.jsx(s,{maxW:"350px",children:r.jsx(n,{label:"Label",value:"Read only value"})})},t={render:()=>r.jsx(s,{maxW:"350px",children:r.jsx(n,{value:"No label here"})})};var m,l,i;o.parameters={...o.parameters,docs:{...(m=o.parameters)==null?void 0:m.docs,source:{originalSource:`{
+  render: () => <Box maxW="350px">
+            <ReadOnly label="Label" value="Read only value" />
+        </Box>
+}`,...(i=(l=o.parameters)==null?void 0:l.docs)==null?void 0:i.source}}};var d,c,u;a.parameters={...a.parameters,docs:{...(d=a.parameters)==null?void 0:d.docs,source:{originalSource:`{
+  render: () => <Box maxW="350px">
+            <ReadOnly label="Label" value="Read only value" />
+        </Box>
+}`,...(u=(c=a.parameters)==null?void 0:c.docs)==null?void 0:u.source}}};var x,f,b;t.parameters={...t.parameters,docs:{...(x=t.parameters)==null?void 0:x.docs,source:{originalSource:`{
+  render: () => <Box maxW="350px">
+            <ReadOnly value="No label here" />
+        </Box>
+}`,...(b=(f=t.parameters)==null?void 0:f.docs)==null?void 0:b.source}}};const U=["Light","Dark","NoLabel"];export{a as Dark,o as Light,t as NoLabel,U as __namedExportsOrder,Q as default};
